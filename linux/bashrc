@@ -1,4 +1,4 @@
-# .bashrc linux
+# bashrc linux
 
 # User specific environment
 if ! [[ "$PATH" =~ "$HOME/.local/bin:$HOME/bin:" ]]
